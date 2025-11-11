@@ -1,0 +1,11 @@
+{
+  "name": "USDT.Z",
+  "symbol": "USDT.Z",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "USDT.Z is a stablecoin on Binance Smart Chain.",
+  "website": "https://t.me/Mtaimoormujahid",
+  "explorer": "https://bscscan.com/token/0xa76C0dbE6a008b3458916BC439A5BAf4cC08137C",
+  "status": "active",
+  "id": "0xa76C0dbE6a008b3458916BC439A5BAf4cC08137C"
+}
